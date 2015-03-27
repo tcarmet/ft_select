@@ -1,7 +1,8 @@
 # ft_select
 
 <img align="right"  src="http://i.imgur.com/hlqkNUG.png" width="45%" />
-This is a project of [Ecole 42](https://42.fr)
+This is a project of <a href="http://www.42.fr/" target="_blank" >\
+Ecole 42</a>
 
 ft_select was made using the _termcaps_ _library_ 
 
