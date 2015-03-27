@@ -6,7 +6,7 @@ This is a project of [Ecole 42](https://42.fr)
 ft_select was made using the _termcaps_ _library_ 
 
 
-This project was made with : [tcoppin](https://github.com/tcoppin)
+This project was made with : <a href="https://github.com/tcoppin" target="_blank" >tcoppin</a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 ## Usage
 	$>  make
